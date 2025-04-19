@@ -7,14 +7,14 @@ Electronics Store Our platform provides a seamless shopping experience, allowing
 - Frontend: Angular Framework.
 - Backend:  Spring Boot Framework and MySQL Database
 
-## Grading criteria
-- SRS (Use Case Diagram, Activity Diagram, Sequence Diagram, Class Diagram, ERD) 10% 
-- SDD (Project detailed documentation) 10%
-- Validation 15% 
-- OCL 20% 
-- ASOP (Aspect Oriented programming) 20% 
-- Microservices 5% 
-- Cloud 20% Form 
+## criteria
+- SRS (Use Case Diagram, Activity Diagram, Sequence Diagram, Class Diagram, ERD)  
+- SDD (Project detailed documentation) 
+- Validation 
+- OCL 
+- ASOP (Aspect Oriented programming) 
+- Microservices 
+- Cloud 
 
 
 ## User module
